@@ -1,6 +1,6 @@
-Todo Application
+### Todo Application
 
-//Description//
+Description//
 The Todo Application is a task management web application that allows users to add, update, delete, and mark tasks as done. Tasks can be categorized as pending or done based on their completion status. 
 Users can track the number of pending tasks, completed tasks, and manage their to-do list efficiently.
 
